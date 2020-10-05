@@ -5,7 +5,7 @@ void forkexample()
 { 
     // child process because return value zero 
     if (fork() == 0) 
-        printf("Hello from Dev!\n"); 
+        printf("Hello from Shubham!\n"); 
   
     // parent process because return value non-zero. 
     else
